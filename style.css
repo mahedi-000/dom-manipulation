@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+#datetime {
+    margin-top: 20px;
+    font-size: 1.5em;
+}
+button{
+    width: 170px;height: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    color:rgb(56, 52, 7);
+    background-color: rgb(199, 211, 211);
+    border-radius: 35px;
+    border-width: 5px;
+    border-color :red ;
+}
